@@ -16,7 +16,13 @@ const Navbar = () => {
                     <li><a href="About">About</a></li>
                     <li><a href="contact">contact</a></li>
                         
-                    </ul>
+                </ul>
+
+                <div>
+                    <input type="text" id="right-nav" name="search" />
+                    <button class="btn">Search</button>
+
+                </div>
                 
             </nav>
         </>
